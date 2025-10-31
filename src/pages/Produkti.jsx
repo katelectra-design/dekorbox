@@ -5,25 +5,25 @@ const products = [
     title: "Lieldienu kaste",
     description:
       "Pavasara prieka pilna Lieldienu kaste ar krāsainām olām, trausliem porcelāna trušiem un rotaļīgu svētku virteni. Ideāli piemērota mājas rotāšanai un svētku noskaņas radīšanai.",
-    image: "/images/lieldienu-kaste.png",
+    image: "/images/lieldienu-kaste.jpg",
   },
   {
     title: "Ziemassvētku kaste",
     description:
       "Sirsnīga Ziemassvētku kaste ar eglītes rotājumiem, svecēm, zelta un sarkaniem akcentiem un mazu svētku eglīti. Rada īstu ziemas brīnuma sajūtu jūsu mājās.",
-    image: "/images/ziemassvetku-kaste.png",
+    image: "/images/ziemassvetku-kaste.jpg",
   },
   {
     title: "Helovīnu kaste",
     description:
       "Tumši oranža un melna Helovīnu kaste ar miniatūrām ķirbjiem, sikspārņiem un gaismām — ideāla, lai radītu noslēpumainu svētku atmosfēru.",
-    image: "/images/helovinu-kaste.png",
+    image: "/images/helovinu-kaste.jpg",
   },
   {
     title: "Jāņu kaste",
     description:
       "Dabiska Jāņu kaste ar ziedu vainagu, lina maisiņiem, ozollapām un keramisku vāzi ar florālu rakstu. Nes mājās Jāņu nakts siltumu un latvisko sajūtu.",
-    image: "/images/janu-kaste.png",
+    image: "/images/janu-kaste.jpg",
   },
 ];
 
