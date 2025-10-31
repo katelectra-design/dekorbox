@@ -5,7 +5,7 @@ const products = [
     title: "Lieldienu kaste",
     description:
       "Pavasara prieka pilna Lieldienu kaste ar krāsainām olām, trausliem porcelāna trušiem un rotaļīgu svētku virteni. Ideāli piemērota mājas rotāšanai un svētku noskaņas radīšanai.",
-    image: "/images/lieldienu-kaste.jpg",
+    image: "dekorbox/images/lieldienu-kaste.jpg",
   },
   {
     title: "Ziemassvētku kaste",
